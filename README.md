@@ -1,5 +1,5 @@
 <!-- SAMPLE CONFLICTS -->
-# Laboratory 8
+# Laboratory 9
 <!-- PROJECT SHIELDS -->
 [![Contributors][sample-conflicts-contributors-shield]][sample-conflicts-contributors-url]
 [![Forks][sample-conflicts-forks-shield]][sample-conflicts-forks-url]
