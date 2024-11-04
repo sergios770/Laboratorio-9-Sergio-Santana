@@ -31,6 +31,8 @@ def new_node(key, value, color=RED):
 
 
 def is_red(my_node):
+    if my_node is None:
+        return False 
     """
     Informa si un nodo es rojo
     Args:

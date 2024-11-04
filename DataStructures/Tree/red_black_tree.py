@@ -43,7 +43,7 @@ def new_map():
     map["size"] = 0
     return map
 
-from DataStructures.Tree import rbt_node as bst_node
+
 
 def put(my_bst, key, value):
     my_bst["root"] = insert_node(my_bst["root"], key, value)
